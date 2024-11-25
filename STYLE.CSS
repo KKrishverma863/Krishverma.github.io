@@ -1,0 +1,12 @@
+#header{
+    background-color: aqua;font-size:50px;padding:5px;
+}
+#leftnav{
+    background-color: chartreuse;padding:5px;width: 200px;float: left; font: size 200px;height: 434px;
+}
+#main{
+    background-color: cornflowerblue;  font: size 50px;padding:10px;width: 691px;float: left;
+}
+#footer{
+    background-color: darksalmon;padding:10px;
+}
